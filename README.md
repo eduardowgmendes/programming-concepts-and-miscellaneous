@@ -7,4 +7,4 @@ Este repositório está organizado da seguinte maneira:
 '/chapters' - aos capítulos de conteúdo que compõem este repositório
 
 ## Índice
-[SOLID em 5 Minutos - ** *EM ANDAMENTO* **](https://github.com/eduardowgmendes/programming-concepts-and-miscellaneous/blob/master/chapters/solid-principles.md)
+[SOLID em 5 Minutos - ***EM ANDAMENTO***](https://github.com/eduardowgmendes/programming-concepts-and-miscellaneous/blob/master/chapters/solid-principles.md)
