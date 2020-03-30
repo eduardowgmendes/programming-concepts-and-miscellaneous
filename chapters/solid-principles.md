@@ -1,5 +1,5 @@
 ## SOLID em 5 Minutos 
-SOLID é um acrônimo para 5 princípios de design orientados a objetos que garantem mais legibilidade, flexibilidade e manutenibilidade ao seu código. 
+***SOLID*** é um acrônimo para 5 princípios de design orientados a objetos que garantem mais legibilidade, flexibilidade e manutenibilidade ao seu código. 
 
 ## Princípio da Responsabilidade Única - *Single Responsibility Principle*
 Diz que toda classe ou módulo deve ter apenas uma única responsabilidade e ela deve fazer apenas uma coisa e fazê-la bem.
